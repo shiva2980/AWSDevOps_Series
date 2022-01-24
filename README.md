@@ -1,4 +1,6 @@
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3cg5yq7MdnQ/0.jpg)](http://www.youtube.com/watch?v=https://youtu.be/3cg5yq7MdnQ)
+
 # AWS DevOps Series:
 - Below is the list of services covered with live practical’s
 
